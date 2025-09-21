@@ -1,7 +1,7 @@
 # ekg
 
-Producer: https://github.com/vincedbowen/ekg-stream
+Producer: https://github.com/vincedbowen/ekg-producer
 
-Shared Resources:
+Shared Resources: https://github.com/vincedbowen/ekg-shared-resources
 
-Ingestor (Server and GUI):
+Ingestor (Server and GUI): https://github.com/vincedbowen/ekg-stream
