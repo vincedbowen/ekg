@@ -1,6 +1,6 @@
 # ekg
 
-Producer:
+Producer: https://github.com/vincedbowen/ekg-stream
 
 Shared Resources:
 
